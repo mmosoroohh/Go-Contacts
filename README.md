@@ -1,5 +1,5 @@
 # Go Contact
-This is a sample contact application. This API is a exercise to learn Golang with PostgreSQL.
+This is a simple contact application. This API is an exercise to learn Golang with PostgreSQL.
 
 ### Authentication
 - User can register for a free account (Normal and Social e.g. Facebook)
